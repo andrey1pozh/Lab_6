@@ -9,8 +9,6 @@ import java.util.Scanner;
 
 /**
  * Main client class. Creates all client instances.
- *
- * @author Sviridov Dmitry and Orlov Egor.
  */
 public class App {
     public static final String PS1 = "$ ";
